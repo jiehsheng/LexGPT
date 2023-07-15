@@ -1,0 +1,11 @@
+
+* load_in_16bit only
+* load_in_4bit and load_in_8bit have no effect, because bitsandbytes runs only with CUDA at this moment and it does not work on Apple M1.
+
+# (Ubuntu) MacBook Pro (Apple M1 Max) RAM = 64G
+# memory usage: 56.58GB / 64GB
+
+generated:
+In this case, the trial court found that the appellant had failed to show that she had a service-connected disability.  Therefore, the court concluded that the appellant had not shown that she was entitled to a total disability rating.  The court also concluded that the appellant had failed to show that she was unemployable.  As such, the trial court granted the appellant a total disability rating, and it is from this decision that the appellant appeals.  
+
+In January 2008, the appellant filed a claim for service connection for a right shoulder disorder.  She alleged that her right shoulder disorder was secondary to her service-connected right hip disorder.  The appellant underwent a VA examination in March 2008.  The examiner reviewed the appellant's claims file, including the appellant's service treatment records, and provided an opinion that the appellant's right shoulder disorder was not related to the appellant's right hip disorder.  In support of the opinion, the examiner noted that there was no evidence of a right hip disorder prior to the appellant's military service.  The examiner also noted that the appellant had not received any treatment for a right shoulder disorder during her military service.  As such, the examiner opined that the appellant's right shoulder disorder was not caused or aggravated by her right hip disorder.

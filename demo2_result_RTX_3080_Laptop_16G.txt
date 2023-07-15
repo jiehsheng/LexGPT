@@ -1,0 +1,87 @@
+* load_in_4bit (nf4)
+# (Windows) GeForce RTX 3080 Laptop GPU, VRAM = 16G
+# gpu usage: 6692MiB / 16384MiB 
+
+generated: 
+In this case, the trial court found that the
+veteran's current psychiatric disability,
+characterized as PTSD, was not incurred in or
+aggravated by his military service.  The evidence of record
+shows that the veteran was not treated for a psychiatric
+disability until many years after service.  He was not
+diagnosed with PTSD until approximately 2000.  The veteran
+was diagnosed with adjustment disorder with mixed
+personality disorder, which the Board finds to be a
+disability that began many years after service.  There is no
+medical evidence showing a link between the veteran's
+current psychiatric disability and his military service.
+Accordingly, the preponderance of the evidence is against
+the veteran's claim.  38 U.S.C.A. § 5107(b) (West 1991);
+38 C.F.R. § 3.303 (1999).
+
+The Board notes that the veteran's representative contends
+that the veteran should be afforded an additional VA
+psychiatric examination.  In this regard, the Board notes
+that the VA examination report, dated in June 1999, shows
+
+
+* load_in_4bit (fp4)
+# (Windows) GeForce RTX 3080 Laptop GPU, VRAM = 16G
+# gpu usage: 6978MiB / 16384MiB 
+
+generated: 
+In this case, the trial court found that the appellant's
+service medical records did not show that the appellant was
+treated for a right knee disorder while on active duty, and
+that there was no evidence of any right knee complaints in
+service.  In addition, the appellant has not provided any
+competent medical evidence to show that the claimed
+disorder was present during service or within one year of
+discharge.  In fact, the appellant's service medical records
+are negative for any indication of treatment for a right knee
+disorder, and there is no competent medical evidence of a
+current right knee disorder.  The Board notes that the
+appellant is competent to report symptoms as they come to
+him through his senses.  Layno v. Brown, 6 Vet. App. 465, 470
+(1994) (lay testimony is competent when it regards features
+or symptoms of injury or illness).  However, the appellant's
+statements regarding the presence of a current right knee
+disorder are not competent evidence of the required nexus
+between his current right knee disorder and his active duty
+
+
+* load_in_8bit
+# (Windows) GeForce RTX 3080 Laptop GPU, VRAM = 16G
+# gpu usage: 8967MiB / 16384MiB 
+
+generated:
+In this case, the trial court found that the veteran's
+claim was well grounded.  However, in view of the
+determination below that the veteran's claim is not well
+grounded, it is unnecessary for the Board to reach the
+question of whether the veteran has submitted a well-
+grounded claim for service connection for a low back
+disability.  In addition, the Board notes that the RO
+complied with the VCAA in the development of the veteran's
+claim, and there is no prejudice to the veteran by the
+Board's action in this regard.  See Bernard v. Brown, 4
+Vet. App. 384, 392-94 (1993).
+
+II.  Factual Background
+
+Service medical records reveal that the veteran was treated
+for back pain on several occasions during service.  At
+separation, the veteran reported that he had recurrent back
+pain.  In April 1981, the veteran was seen for back pain.
+The veteran reported that he had injured his back in the
+Navy, but had no history of back pain.  The diagnosis was
+back
+
+
+* load_in_16bit
+# (Windows) GeForce RTX 3080 Laptop GPU, VRAM = 16G
+# gpu usage: 16100MiB / 16384MiB 
+# --> it can run (but extremely slow)
+
+generated:
+In this case, the trial court found that the evidence was insufficient to support a finding that the Veteran's PTSD caused or aggravated his hypertension.  As noted above, the Board finds that the VA medical opinion of record is not probative.  The VA examiner, after reviewing the claims file and interviewing and examining the Veteran, opined that the Veteran's hypertension was less likely than not incurred in or caused by his service-connected PTSD.  The VA examiner opined that it was less likely than not that the Veteran's hypertension was caused by his PTSD.  The VA examiner stated that there was no evidence that the Veteran's PTSD caused or aggravated his hypertension.  The VA examiner noted that there was no evidence of a relationship between PTSD and hypertension.  The VA examiner opined that it was less likely than not that the Veteran's hypertension was caused or aggravated by his PTSD.  The VA examiner noted that there was no evidence that the Veteran's PTSD caused or aggravated his hypertension.  The VA examiner also stated that the Veteran's hypertension was not caused by his PTSD.  The VA examiner stated that there was no evidence of a relationship between PTSD and hypertension.  The VA examiner also noted that there was no evidence that the Veteran's PTSD caused or aggravated his hypertension.  The VA examiner

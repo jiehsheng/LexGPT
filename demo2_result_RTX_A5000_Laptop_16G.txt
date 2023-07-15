@@ -1,0 +1,82 @@
+* load_in_4bit (nf4)
+# (Ubuntu) NVIDIA RTX A5000 Laptop GPU, VRAM = 16G
+# gpu usage: 5257MiB / 16384MiB
+
+generated: 
+In this case, the trial court found that the Veteran was 
+unable to secure or follow a substantially gainful occupation 
+due to his service-connected disabilities.  The Veteran has 
+not argued, and the record does not otherwise reflect, that 
+his service-connected disabilities have caused marked 
+interference with his employment, or that they have required 
+frequent periods of hospitalization.  The Veteran has not 
+alleged, and the record does not otherwise reflect, that 
+his service-connected disabilities have caused marked 
+interference with his employment.  As such, the Board finds 
+that the criteria for referral for consideration of an 
+extraschedular rating pursuant to 38 C.F.R. § 3.321(b)(1) 
+are not met.  See Bagwell v. Brown, 9 Vet. App. 337 (1996); 
+Shipwash v. Brown, 8 Vet. App. 218, 227 (1995).
+
+In Rice v. Shinseki, 22 Vet. App. 447 (2009), the Court held 
+that a claim for a total rating based on individual 
+unemployability (TDIU) is part of an increased rating
+
+
+* load_in_4bit (fp4)
+# (Ubuntu) NVIDIA RTX A5000 Laptop GPU, VRAM = 16G
+# gpu usage: 5513MiB / 16384MiB
+
+generated:
+In this case, the trial court found that there was clear and 
+unmistakable evidence that the veteran had a pre-existing 
+bilateral knee disorder and that such disorder was not 
+aggravated by service.  However, the Board finds that the 
+evidence does not show that the veteran's preexisting 
+bilateral knee disorder was aggravated by service.  The 
+service medical records show that the veteran had a 
+patellofemoral syndrome of the left knee, but there is no 
+evidence that the disorder was aggravated by service.  
+Further, there is no evidence that the veteran had any 
+symptoms prior to his entry into service.  The veteran was 
+examined in June 1967 for his entrance into service and the 
+examiner stated that the veteran's knees were normal.  
+Although the veteran reported a history of a trick or locked 
+knee on his report of medical history, the veteran's knees 
+were clinically evaluated as normal.  The veteran did not 
+complain of any knee pain or injury in service.  The 
+veteran was discharged from service because of the normal 
+examination of his knees.
+
+
+* load_in_8bit
+# (Ubuntu) NVIDIA RTX A5000 Laptop GPU, VRAM = 16G
+* gpu usage: 7871MiB / 16384MiB
+
+generated: 
+In this case, the trial court found that the evidence 
+established that the veteran was unable to work as a result 
+of his PTSD.  In reaching this conclusion, the trial court 
+noted that the veteran had been receiving Social Security 
+benefits for the same condition since March 1992, and that 
+the veteran's PTSD was manifested by chronic pain, 
+depression, memory loss, and impaired concentration.  The 
+court noted that the veteran had been in receipt of 
+disability benefits since February 1992, and that he had 
+been working full time since that time.  The court also 
+noted that the veteran had reported that he was unable to 
+work due to PTSD symptoms, but that the symptoms had not 
+significantly changed.  The court also noted that the 
+veteran had reported that he had a very good relationship 
+with his wife, and that they had been married for many years 
+prior to the veteran's separation from service.  The court 
+noted that the veteran had not been able to work since the 
+time of his separation from service, and that the veteran 
+was currently in
+
+
+* load_in_16bit
+# (Ubuntu) NVIDIA RTX A5000 Laptop GPU, VRAM = 16G
+* gpu usage: Out of Memory 
+
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 788.00 MiB (GPU 0; 15.74 GiB total capacity; 13.76 GiB already allocated; 161.44 MiB free; 14.51 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
