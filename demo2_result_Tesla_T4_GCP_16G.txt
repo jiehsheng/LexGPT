@@ -1,0 +1,34 @@
+* load_in_4bit (nf4)
+# (Ubuntu) NVIDIA Tesla T4 GPU, VRAM = 16G
+# gpu usage: 4852MiB / 15109MiB
+
+generated: 
+In this case, the trial court found that the evidence was sufficient to support the appellant's convictions and sentences.  The court further found that the appellant's trial counsel had provided effective assistance of counsel.  The trial court specifically noted that counsel had performed a reasonable investigation and had conducted a reasonable trial strategy.  The court found that the appellant's counsel had provided effective assistance of counsel.  The court also noted that the appellant had been in custody since his trial.  The court found that the appellant had not been prejudiced by the alleged ineffectiveness of his counsel.  The court concluded that the appellant had not established that his counsel had committed a serious error that prejudiced the appellant's defense.  The court concluded that the appellant had not demonstrated that he had been denied a fair trial.  Based upon the trial court's findings, the court concluded that the appellant had not established that his counsel had committed a serious error.  Therefore, the appellant's conviction and sentence were not against the manifest weight of the evidence.  The trial court did not err in denying the appellant's motion for new trial.  The appellant's first assignment of error is overruled.
+In his second assignment of error, the appellant contends that his convictions were against the manifest weight of the evidence.  Specifically,
+
+
+* load_in_4bit (fp4)
+# (Ubuntu) NVIDIA Tesla T4 GPU, VRAM = 16G
+# gpu usage: 5108MiB / 15109MiB
+
+generated:
+In this case, the trial court found that the appellant was unable to work because of his service-connected disability and that his symptoms of depression and anxiety were not sufficient to cause total occupational impairment.  The court stated that the appellant's symptoms included depressed mood, anxiety, and sleep disturbances.  The court noted that the appellant's symptoms of depression and anxiety were not sufficient to cause total occupational impairment, and the court noted that the appellant's symptoms were not sufficient to cause total occupational impairment.  The court stated that the appellant's symptoms did not prevent him from obtaining and maintaining substantially gainful employment.  The court noted that the appellant's symptoms of depression and anxiety were not sufficient to cause total occupational impairment.  The court concluded that the appellant was not entitled to a total disability rating based on individual unemployability due to service-connected disabilities.  
+
+In his September 2009 VA Form 21-8940, the appellant stated that he was not working due to the severity of his service-connected disabilities.  He stated that he did not have any medical problems related to his service-connected disabilities.  He stated that he did not work because of his disabilities.  He stated that he was currently working for a company that provided services to the elderly.  The appellant stated that he
+
+
+* load_in_8bit
+# (Ubuntu) NVIDIA Tesla T4 GPU, VRAM = 16G
+# gpu usage: 7468MiB / 15109MiB
+
+generated: 
+In this case, the trial court found that the Veteran's right ankle disorder was not caused by or a result of his active duty service.  The Board notes that there is no competent evidence in the claims file that supports this finding.  Rather, the evidence shows that the Veteran was not diagnosed with right ankle degenerative joint disease during service.  Additionally, the Board finds that the Veteran is not competent to diagnose a right ankle disorder.  The Board finds that the Veteran is not competent to diagnose a right ankle disorder.  Although the Veteran has asserted that he was diagnosed with a right ankle disorder during service, he has not been shown to have the appropriate training and expertise to diagnose a right ankle disorder.  See Layno v. Brown, 6 Vet. App. 465, 469-470 (1994).  The Board finds that the Veteran's statements as to diagnosis are outweighed by the medical evidence of record.  In sum, the Board finds that the preponderance of the evidence is against a finding that the Veteran's right ankle disorder is related to his active duty service.  Accordingly, service connection for a right ankle disorder is denied.  
+
+The Board has considered the doctrine of reasonable doubt.  However, as the preponderance of the evidence is against the Veteran's claim,
+
+
+* load_in_16bit
+# (Ubuntu) NVIDIA Tesla T4 GPU, VRAM = 16G
+# gpu usage: Out of Memory 
+
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 788.00 MiB (GPU 0; 14.76 GiB total capacity; 13.01 GiB already allocated; 327.75 MiB free; 13.76 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.
